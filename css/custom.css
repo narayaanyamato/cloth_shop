@@ -1,0 +1,83 @@
+
+
+
+/* Made with love...1..4..3..*??/*/\
+
+
+.product h3
+{
+ color: tomato;
+ text-align: center;
+ padding: 8px;
+ font-family: sans-serif;
+}
+
+.Mens h3
+{
+	text-align: left;
+	padding: 10px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color:#4e497c;
+}
+
+body
+{
+	background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+
+.icon
+{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+
+.nav-item a
+{
+	font-size: 18px;
+	color: red;
+	padding: 8px;
+	font-weight: 500;
+	font-family: sans-serif;
+}
+
+
+
+.navbar-brand
+{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+.layer a img:hover
+{
+	background: cyan;
+}
+
+.text h3
+{
+	font-family: serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+
+.catogory img
+{
+	border-radius: 10px;
+	background: red;
+}
+
+.card:hover
+  {
+    border-radius: 10px;
+    box-shadow: 0 0 0 10px #000000;
+transition: .5s ease;
+box-shadow:
+
+  }
